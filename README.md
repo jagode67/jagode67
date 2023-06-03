@@ -1,42 +1,25 @@
-### Hola, soy Javi 👋
+### Hola, I'm Javi 👋
 
 <img src="https://javigomez.org/img/cod.png" alt="Logo del Proyecto">
 
-Breve descripción del autor y sus intereses.
+I am currently working as a teacher of various technical subjects (Web Developers, Web Desing, Programation, Systems) within the Training Cycles of Web Application Development at ESIC. In the previous 10 years I was working as Head of User Experience and Graphic Interface within the Telefonica Telco 3.0 project, which is the reconstruction of all management services and services of Telefónica. My background like technical engineer, and my experience in the areas of user experience allows me to have an end-to-end front-end view, knowing the technical limitations, speaking both the technical area as the functional area to find viable solutions and usable.
+In my nearly 30 years of experience, I have been through technical positions, leading development teams and systems. In recent times I have worked in equipment User Experience and Interaction Design.
 
-## Perfil
 
-- [Enlace al perfil de GitHub](enlace-a-tu-perfil)
-- [Enlace a tu página web o blog](enlace-a-tu-sitio-web)
+## Profile
 
-## Experiencia
+- [Linkedin](https://www.linkedin.com/in/javigomezdelgado/)
+- [javigomez.org](http://javigomez.org/)
 
-- Experiencia 1
-- Experiencia 2
-- Experiencia 3
+## Experience
 
-## Contribuciones destacadas
+- Teacher of Technical Subjects within the Professional Training of Web Application DevelopmentTeacher of Technical Subjects within the Professional Training of Web Application Development (ESIC - Escuela de Formación Profesional Superior)
+- Head of User Experience and Graphic Interface. Telco 3.0 project in TelefonicaHead of User Experience and Graphic Interface. Telco 3.0 project in Telefonica (Telefónica España)
+- Web Engineer areaWeb Engineer area (Terra)
 
-- Proyecto 1 en el que has contribuido
-- Proyecto 2 en el que has contribuido
-- Proyecto 3 en el que has contribuido
+## Contact
 
-## Habilidades técnicas
-
-- Habilidad 1
-- Habilidad 2
-- Habilidad 3
-
-## Intereses
-
-- Interés 1
-- Interés 2
-- Interés 3
-
-## Contacto
-
-- Email: tu-email@example.com
-- Redes Sociales: enlaces a tus perfiles de redes sociales (Twitter, LinkedIn, etc.)
+- Email: gomez.delgado.javier@gmail.com
 
 
 <!--
