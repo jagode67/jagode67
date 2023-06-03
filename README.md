@@ -1,9 +1,6 @@
 ### Hola, soy Javi 👋
 
-![Foto del Autor](enlace-a-la-foto.png)
-
-<img src="https://javigomez.org/img/codigo.png" alt="Logo del Proyecto">
-
+<img src="https://javigomez.org/img/cod.png" alt="Logo del Proyecto">
 
 Breve descripción del autor y sus intereses.
 
